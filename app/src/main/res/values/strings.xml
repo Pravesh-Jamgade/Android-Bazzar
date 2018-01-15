@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Bazzar</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+
+    <!-- login strings-->
+    <string name="enter_pass">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="user_login">User Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Not have an account? Signup Here</string>
+
+
+    <!-- Welcome Activity strings-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+    <!--Menu item texts -->
+
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="item_1">Offers</string>
+    <string name="item_2">Electronics</string>
+    <string name="item_3">Lifestyle</string>
+    <string name="item_4">Home Appliances</string>
+    <string name="item_5">Books \u0026 More</string>
+    <string name="item_6">More</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_account">My Account</string>
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Help Center</string>
+    <string name="action_settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="logout">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
